@@ -1,9 +1,11 @@
 # Horeason
 
-Description
+## Description
 Refactoring code for easier reading and understanding
 
-Dependencies
-HTML and CSS
+## Dependencies
+* HTML
+* CSS
 
-Website URL https://github.com/Mladen1506/horeason
+## Website 
+https://mladen1506.github.io/horeason/
